@@ -1,0 +1,7 @@
+{
+  "name": "HostelHub Girls",
+  "description": "Exclusive app for female hostel students in Lahore to find roommates, share meals, trade items, and locate essential services safely.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
